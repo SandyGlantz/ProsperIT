@@ -36,7 +36,7 @@ I freely admit gthat coming out of an instensive segment in C# and ASP.NET my jQ
 
 At first I struggled to manage scope - I wanted to clean out code - fix all the little inconsistencies I saw - but quickly realized the importance of reporting what I saw and sticking to the scope of the story I was assigned.
 
-I've since come to appreciate Lean and MVP as a process and how that relates to scope.  It's scary how easy an hour flies by when you're coding. You can get really bogged down in details before you know it.  New mantra: stick to scope.  (You mean that <div> tag I cleaned out had a purpose somewhere else??)  You have to love TFS and changesets!
+I've since come to appreciate Lean and MVP as a process and how that relates to scope.  It's scary how easy an hour flies by when you're coding. You can get really bogged down in details before you know it.  New mantra: stick to scope.  (You mean that div tag I cleaned out had a purpose somewhere else??)  You have to love TFS and changesets!
 
 By the end of the two sprints the difference in my understand, skill and contribution was significant.  I could easily find my way around the code and knew how all the pieces fit together.  The whole agile system clicked in my brain ... I come from a very traditional Waterfall process - and I wish I'd known about all the implications sooner.
 
